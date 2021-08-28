@@ -276,3 +276,16 @@ footer a:hover{
     }
     
 }
+.scrollbutton{
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    z-index: 999;
+    cursor: pointer;
+    display: none;
+}
+.scrollbutton img{
+    width: 70px;
+    height: 70px;
+    cursor: pointer;
+}
